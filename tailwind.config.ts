@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        hermes_orange: "#f37021",
+        odd_grey: "#bfbfbf",
+      },
+      fontFamily: {
+        sans: ["Poppins", "sans-serif"], // Set Poppins as the default sans font
       },
     },
   },
