@@ -110,8 +110,8 @@ export default function Home() {
         </div>
         <div className="flex px-8 pb-8">
           <div className="rounded-2xl bg-hermes_orange text-center px-4 py-4">
-              <p>I'm a Computer Engineering student at the University of Toronto. 
-                My interests lie in hardware acceleration for AI/ML. As a creative, I'm also interested in full-stack development. 
+              <p>I&apos;m a Computer Engineering student at the University of Toronto. 
+                My interests lie in hardware acceleration for AI/ML. As a creative, I&apos;m also interested in full-stack development. 
                 I also enjoy writing my thoughts down (totally check out the blog), playing basketball, reading wikipedia, and painting!
                 </p>
               <p>
@@ -121,9 +121,9 @@ export default function Home() {
               <p>
               <br/>I’d always been very into computers from quite a young age. 
                At around 11, my dad first introduced me to coding and the very basics of computer hardware. 
-               Making machines think with just electrical signals is the greatest thing humanity has done, and that fascinated me. 
-               Ever since then I’ve been on a journey to understand more and be a part of this exciting 
-               phase in society and I'm very excited to see what else we’ll do next.      
+               Making machines think with just electrical signals is the greatest thing humanity has done, and that fascinated me.
+                Ever since then I&apos;ve been on a journey to understand more and be a part of this exciting 
+                phase in society and I&apos;m very excited to see what else we&apos;ll do next.      
                 </p>
           </div>
           <div className="px-8">
